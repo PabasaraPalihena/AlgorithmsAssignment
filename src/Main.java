@@ -5,7 +5,6 @@ public class Main {
 
         int arr[] = {1,2,3,4,5};
         Scanner sc = new Scanner(System.in);
-//        int arr[] = new int [10];
         int sum = 0;
 
         System.out.println("Enter the elements of the array one by one ");
